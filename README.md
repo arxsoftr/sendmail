@@ -3,6 +3,7 @@
 ## Türkçe
 
 Bu proje, PHPMailer kullanarak toplu e-posta gönderimi yapmanıza olanak tanıyan bir PHP betiği içerir. E-postaları bir dosyadan veya doğrudan formdan yükleyerek gönderebilirsiniz. Bu script, kişiselleştirilmiş mesajlar ve sabit bir HTML e-posta şablonu kullanarak e-postalarınızı göndermenizi sağlar.
+![Img](https://i.hizliresim.com/9eu1ak1.jpg)
 
 ### Kurulum
 
@@ -42,6 +43,7 @@ Gönderim sırasında mesajınız ve konu başlığınız belirleyin.
 ## Engilish
 
 This project includes a PHP script that allows you to send bulk emails using PHPMailer. You can send emails by uploading them from a file or directly from the form. This script allows you to send your emails using personalized messages and a fixed HTML email template.
+![Img](https://i.hizliresim.com/4ccvywq.jpg)
 
 ### Setup
 
