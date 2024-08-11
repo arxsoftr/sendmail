@@ -27,7 +27,7 @@ $mail->Password = 'yourpassword'; // SMTP şifresi
 Kullanım
 E-posta Gönderimi
 
-Web tarayıcınızdan send_mails.php sayfasına gidin ve e-posta gönderme işlemini başlatın.
+Web tarayıcınızdan index.php sayfasına gidin ve e-posta gönderme işlemini başlatın.
 
 Dosya Yükleme
 
@@ -66,7 +66,7 @@ $mail->Password = 'yourpassword'; // SMTP password
 Use
 Email Sending
 
-Go to send_mails.php from your web browser and start sending emails.
+Go to index.php from your web browser and start sending emails.
 
 File Upload
 
