@@ -79,21 +79,6 @@ Determine your message and subject title when sending.
 # ArX Developers
 
 
-## Dağıtım
-
-Bu projeyi dağıtmak için çalıştırın
-
-```bash
-  npm run deploy
-```
-
-  
-## Özellikler
-
-- Dil Desteği
-- Hızlı Gönderim
-- Responsive
-
   
 ![Logo](https://arxdevelopers.github.io/assets/img/arx-logo.png)
 
